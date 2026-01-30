@@ -3,8 +3,6 @@
 A responsive **Greenden website clone** built using **Tailwind CSS**, focusing on a clean UI and modern layout.  
 This project replicates the core structure and design of the Greenden website and includes three main pages: **Home**, **Products**, and **Contact**.
 
----
-
 ## 🚀 Project Overview
 
 The Greenden Website Clone is a front-end project created to practice and demonstrate:
@@ -14,8 +12,6 @@ The Greenden Website Clone is a front-end project created to practice and demons
 - Basic multi-page website structure
 
 This project is suitable for beginners learning **Tailwind CSS** and **modern HTML layout techniques**.
-
----
 
 ## 📄 Pages Included
 
@@ -35,15 +31,11 @@ This project is suitable for beginners learning **Tailwind CSS** and **modern HT
 - Clean and minimal UI
 - Fully responsive layout
 
----
-
 ## 🛠️ Technologies Used
 
 - **HTML5**
 - **Tailwind CSS**
 - **Responsive Design (Flexbox & Grid)**
-
----
 
 ## 📱 Responsive Design
 
@@ -52,7 +44,5 @@ The website is fully responsive and optimized for:
 - Tablets 📲
 - Desktop screens 🖥️
 
----
 
-## 📂 Project Structure
 
