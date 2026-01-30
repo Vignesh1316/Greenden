@@ -1,5 +1,4 @@
-# Greenden
-# 🌿 Greenden Website Clone
+# Greenden Website Clone
 
 A responsive **Greenden website clone** built using **Tailwind CSS**, focusing on a clean UI and modern layout.  
 This project replicates the core structure and design of the Greenden website and includes three main pages: **Home**, **Products**, and **Contact**.
